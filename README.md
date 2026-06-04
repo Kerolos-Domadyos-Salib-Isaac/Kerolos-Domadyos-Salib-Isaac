@@ -20,27 +20,24 @@
 
 ---
 
-## 🧬 About Me
+## 🚀 About Me
 
-```python
-class MechatronicsEngineer:
-    def __init__(self):
-        self.name        = "Kerolos Domadyos Salib Isaac"
-        self.degree      = "B.S. Mechatronics Engineering — GPA 3.92/4.00 🏆"
-        self.university  = "Arab Academy for Science, Technology & Maritime Transport"
-        self.location    = "Cairo, Egypt 🇪🇬"
-        self.focus       = ["Industrial Automation", "Robotics", "AI/ML", "IoT"]
-        self.passion     = "Applying AI to build smarter, data-driven industrial solutions"
-        self.dream       = "Head of Mechanical Engineering Team at Red Bull Racing F1 🏎️"
+> *"Applying AI to build smarter, data-driven industrial solutions — one system at a time."*
 
-    def achievements(self):
-        return [
-            "🥇 Ranked #1 in Mechatronics for 10 consecutive semesters",
-            "🏆 1st Place — IUGRC-9 Best Research Paper (International)",
-            "🥉 3rd Place — Military Technical College Annual Science Fair",
-            "🎓 70% Merit Scholarship — AASTMT",
-        ]
-```
+I'm a top-ranked Mechatronics Engineering graduate passionate about bridging the gap between intelligent software and physical systems. My work sits at the intersection of **industrial automation**, **robotics**, **AI/ML**, and **IoT** — building solutions that don't just work, but *think*.
+
+🏎️ **Ultimate dream:** Head of Mechanical Engineering Team at **Red Bull Racing F1**
+
+---
+
+## 🏆 Achievements
+
+| # | Achievement |
+|---|---|
+| 🥇 | Ranked **#1 in Mechatronics** for **10 consecutive semesters** |
+| 🏆 | **1st Place** — IUGRC-9 Best Research Paper *(International)* |
+| 🥉 | **3rd Place** — Military Technical College Annual Science Fair |
+| 🎓 | **70% Merit Scholarship** — AASTMT |
 
 ---
 
