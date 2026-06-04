@@ -12,7 +12,7 @@
 # Kerolos Domadyos Salib Isaac
 ### 🤖 Mechatronics Engineer · ⚙️ Industrial Automation · 🧠 AI & Robotics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kerolos%20Domadyos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/kerolos-domadyos](https://www.linkedin.com/in/kerolos-domadyos-salib-isaac-734691230/))
+[![LinkedIn](https://www.linkedin.com/in/kerolos-domadyos-salib-isaac-734691230/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kerolosdomadyos@gmail.com)
 [![Location](https://img.shields.io/badge/Cairo-Egypt-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
