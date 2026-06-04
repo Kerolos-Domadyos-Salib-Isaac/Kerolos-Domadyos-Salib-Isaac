@@ -31,7 +31,7 @@ class MechatronicsEngineer:
         self.location    = "Cairo, Egypt 🇪🇬"
         self.focus       = ["Industrial Automation", "Robotics", "AI/ML", "IoT"]
         self.passion     = "Applying AI to build smarter, data-driven industrial solutions"
-        self.dream       = "Formula 1 Engineering 🏎️"
+        self.dream = "Head of Mechanical Engineering Team at Red Bull Racing F1 🏎️"
 
     def achievements(self):
         return [
